@@ -1,7 +1,7 @@
 ---
 tipo: indice
 seccion: reuniones de seguimiento
-revision: pendiente
+revision: listo
 ---
 
 # Reuniones de seguimiento de FianzasAI

@@ -3,7 +3,7 @@ tipo: resumen-ejecutivo
 corte: 2026-10-20
 semana: 10 de 18
 autor: Rafael Hernández Muñoz
-revision: pendiente
+revision: listo
 ---
 
 # Resumen ejecutivo · corte 2026-10-20

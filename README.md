@@ -4,7 +4,7 @@ repo: PP-A3-Evidencias
 corte: 2026-10-20
 autor: Rafael Hernández Muñoz
 lector: Dirección General A3
-revision: pendiente
+revision: listo
 ---
 
 # Evidencias del programa de Prácticas Profesionales y de FianzasAI · A3 Fianzas

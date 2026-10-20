@@ -1,7 +1,7 @@
 ---
 tipo: pendientes
 corte: 2026-10-20
-revision: pendiente
+revision: listo
 ---
 
 # Pendientes y decisiones abiertas
