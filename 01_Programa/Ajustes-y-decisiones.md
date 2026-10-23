@@ -1,12 +1,14 @@
 ---
 tipo: registro-decisiones
-corte: 2026-10-20
+corte: 2026-10-23
 fuente: bitácora privada (D, R y S), cronograma, revisiones del Track A y del Track B, docs/DECISIONES.md de FianzasAI
+revision: ok
+actualizado: 2026-10-23
 ---
 
 # Ajustes y decisiones del programa
 
-Lista en orden de fecha. Las decisiones técnicas de FianzasAI (D-01 a D-35) están en su repositorio, en `docs/DECISIONES.md`. Aquí solo van las que tocan al programa o a la oficina.
+Lista en orden de fecha. Las decisiones técnicas de FianzasAI (D-01 a D-42) están en su repositorio, en `docs/DECISIONES.md`. Aquí solo van las que tocan al programa o a la oficina.
 
 | Fecha | Decisión o ajuste | Por qué | Fuente |
 | :-- | :-- | :-- | :-- |
@@ -29,3 +31,8 @@ Lista en orden de fecha. Las decisiones técnicas de FianzasAI (D-01 a D-35) est
 | 2026-10-12 | Se contrata **Claude Team** (2 lugares) | Propuesta de IA de pago presentada a la Dirección | D25 |
 | 2026-10-15 | Actualización de computadoras: las de la oficina siguen la versión publicada; la del practicante es copia de desarrollo | Fallas al actualizar en tres computadoras | DECISIONES D-31 |
 | 2026-10-19 | La plática con las ejecutivas para el trabajo de campo se mueve a una sesión extra | Falta de tiempo en D28 | D28, R 20-oct |
+| 2026-10-20 | Se hace la plática con las ejecutivas: le van platicando al practicante los casos que tienen activos | Trabajo de campo del Track B (3.2) | R 20-oct |
+| 2026-10-20 | Step 0, opción C: el practicante corrige los números de su análisis y rehace las familias con casos vivos. La puerta de la Fase 1 se queda el **2026-10-29** | La entrega del 19-oct avanzó en datos, pero las familias siguen por etapa y no por causa | R 20-oct |
+| 2026-10-20 | Alcance de la v1 de FianzasAI y frontera con el CRM (borrador) | Fijar qué entra en la v1 y cuándo termina | DECISIONES D-36 |
+| 2026-10-22 | Se cancela la primera reunión de seguimiento. Queda el 2026-10-29 | La Dirección no pudo asistir | S10 |
+| 2026-10-23 | La puerta de la Fase 1 no se abre esta semana. El 29-oct el practicante defiende el Step 0 y se decide con Dirección la fecha de la puerta | La puerta pide también la propuesta de base de datos (Step 1), que no cabe antes del 29 | S10, R 20-oct |

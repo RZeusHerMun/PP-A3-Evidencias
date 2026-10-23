@@ -1,10 +1,11 @@
 ---
 tipo: indice
 repo: PP-A3-Evidencias
-corte: 2026-10-20
+corte: 2026-10-23
 autor: Rafael Hernández Muñoz
 lector: Dirección General A3
-revision: listo
+revision: ok
+actualizado: 2026-10-23
 ---
 
 # Evidencias del programa de Prácticas Profesionales y de FianzasAI · A3 Fianzas
@@ -18,7 +19,7 @@ Este repositorio junta en un solo lugar lo que se ha hecho desde el 17 de agosto
 
 Es de consulta. Cada nota resume lo que dice la bitácora y anota de qué registro sale. Las bitácoras originales y las revisiones de trabajo se quedan en mi vault privado con las notas de trabajo diario. Si alguna evidencia hace falta completa, se comparte aparte.
 
-**Corte de esta versión:** martes 2026-10-20 (semana 10 de 18).
+**Corte de esta versión:** viernes 2026-10-23 (semana 10 de 18).
 
 ---
 
@@ -29,14 +30,14 @@ Es de consulta. Cada nota resume lo que dice la bitácora y anota de qué regist
 
 ## Contenido
 
-| Carpeta | Qué hay |
-| :-- | :-- |
-| [01_Programa](01_Programa/) | [Programa y organización](01_Programa/Programa-y-organizacion.md) · [Cronograma: plan contra real](01_Programa/Cronograma-plan-vs-real.md) · [Ajustes y decisiones](01_Programa/Ajustes-y-decisiones.md) |
-| [02_Bitacora](02_Bitacora/) | Una nota por semana: [S01](02_Bitacora/S01.md) · [S02](02_Bitacora/S02.md) · [S03](02_Bitacora/S03.md) · [S04](02_Bitacora/S04.md) · [S05](02_Bitacora/S05.md) · [S06](02_Bitacora/S06.md) · [S07](02_Bitacora/S07.md) · [S08](02_Bitacora/S08.md) · [S09](02_Bitacora/S09.md) · [S10](02_Bitacora/S10.md) |
-| [03_Supervision-Edgar](03_Supervision-Edgar/) | [Avance y desempeño](Avance-y-desempeño.md) · [Track A: análisis de mercado](03_Supervision-Edgar/Track-A-Analisis-de-mercado.md) · [Track B: flujo operativo](03_Supervision-Edgar/Track-B-Flujo-operativo.md) |
-| [04_FianzasAI](04_FianzasAI/) | [Estado y versiones](04_FianzasAI/Estado-y-versiones.md) · [Uso en la computadora de Dirección](04_FianzasAI/Uso-en-la-computadora-de-Direccion.md) |
-| [05_Practicas-Raph](05_Practicas-Raph/) | [Reportes a la BUAP](Reportes-BUAP.md) |
-| [07_Reuniones](07_Reuniones/) | Notas de la reunión de seguimiento de FianzasAI, cada jueves de 11:00 a 12:00 ([índice](07_Reuniones/README.md)) |
+| Carpeta                                       | Qué hay                                                                                                                                                                                                                                                                                                    |
+| :-------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [01_Programa](01_Programa/)                   | [Programa y organización](01_Programa/Programa-y-organizacion.md) · [Cronograma: plan contra real](01_Programa/Cronograma-plan-vs-real.md) · [Ajustes y decisiones](01_Programa/Ajustes-y-decisiones.md)                                                                                                   |
+| [02_Bitacora](02_Bitacora/)                   | Una nota por semana: [S01](02_Bitacora/S01.md) · [S02](02_Bitacora/S02.md) · [S03](02_Bitacora/S03.md) · [S04](02_Bitacora/S04.md) · [S05](02_Bitacora/S05.md) · [S06](02_Bitacora/S06.md) · [S07](02_Bitacora/S07.md) · [S08](02_Bitacora/S08.md) · [S09](02_Bitacora/S09.md) · [S10](02_Bitacora/S10.md) |
+| [03_Supervision-Edgar](03_Supervision-Edgar/) | [Avance y desempeño](03_Supervision-Edgar/Avance-y-desempeño.md) · [Track A: análisis de mercado](03_Supervision-Edgar/Track-A-Analisis-de-mercado.md) · [Track B: flujo operativo](03_Supervision-Edgar/Track-B-Flujo-operativo.md)                                                                       |
+| [04_FianzasAI](04_FianzasAI/)                 | [Estado y versiones](04_FianzasAI/Estado-y-versiones.md) · [Uso en la computadora de Dirección](04_FianzasAI/Uso-en-la-computadora-de-Direccion.md)                                                                                                                                                        |
+| [05_Practicas-Rafa](05_Practicas-Rafa/)       | [Reportes a la BUAP](05_Practicas-Rafa/Reportes-BUAP.md)                                                                                                                                                                                                                                                   |
+| [07_Reuniones](07_Reuniones/)                 | Notas de la reunión de seguimiento de FianzasAI, cada jueves de 11:00 a 12:00 ([índice](07_Reuniones/README.md))                                                                                                                                                                                           |
 
 ## Cómo se lee
 

@@ -1,18 +1,20 @@
 ---
 tipo: supervision
 practicante: Edgar Manuel Portillo Pérez
-corte: 2026-10-20
-fuente: bitácora privada D1–D28, reporte de supervisión del 2026-10-09, cierre del Track A, revisión del Track B del 2026-10-06
+corte: 2026-10-23
+fuente: bitácora privada D1–D30, reporte de supervisión del 2026-10-09, cierre del Track A, revisión del Track B del 2026-10-06
+revision: pendiente
+actualizado: 2026-10-23
 ---
 
 # Supervisión del practicante · avance y desempeño
 
 ## En corto
 
-- **Horas:** 126 de 250 al 2026-10-20 (28 sesiones), en línea con el cronograma. Faltan agendar 3 o 4 reposiciones.
-- **Fase:** sigue en la Fase 1. La puerta se movió al **jueves 29 de octubre**.
+- **Horas:** 135 de 250 al 2026-10-22 (30 sesiones), en línea con el cronograma. Faltan agendar 3 o 4 reposiciones.
+- **Fase:** sigue en la Fase 1. La puerta se movió al **jueves 29 de octubre**. Ese día defiende el Step 0 y se decide la fecha de la puerta.
 - **Operación:** opera MAPFRE, AVLA, Berkley y Tokio. Hace previos, altas, carga de estados financieros y organización de expedientes. Emitió su primer previo real en la semana 2.
-- **Proyectos:** Track A cerrado el 17-sep con buen resultado técnico. Track B en curso: el 19-oct entregó los incidentes medidos y una tabla de familias de causas.
+- **Proyectos:** Track A cerrado el 17-sep con buen resultado técnico. Track B en curso: el 19-oct entregó los incidentes medidos y una tabla de familias de causas. El 21-oct lo revisamos en un 1-1 y empezó el trabajo de campo con las ejecutivas. El 22-oct anotó en campo 14 trámites abiertos y 4 incidentes vivos.
 - **Lo que más le cuesta:** cerrar el trabajo, es decir, comprobar que su corrección llegó al producto final. También pasar de "qué pasó" a "por qué pasó y qué requisito lo evita".
 
 ## Dominio por tema
@@ -33,9 +35,10 @@ Nivel según la última evidencia registrada.
 | Vincular bases por llaves | 🟡 alto | Cruce del Track A | 2026-09-17 |
 | Verificar su propio resultado | 🔴 | Dos versiones sin decir cuál sirve; tablero apuntando a la descartada | 2026-09-17 |
 | Mapear el flujo de la oficina | 🟢 | Canvas del flujo de decisiones y manual 05 | 2026-09-30 |
-| Pasar de incidentes a causas y requisitos | 🟡 | Tabla de familias del Step 0 | 2026-10-19 |
+| Pasar de incidentes a causas y requisitos | 🟡 | Tabla de familias del Step 0. Comprobación: mostró los incidentes por categoría, sin causas | 2026-10-19, 2026-10-21 |
+| Decir sus cuellos de botella y puntos de quiebre | 🔴 | Comprobación: no los pudo decir sin la nota | 2026-10-21 |
 
-> **Aviso sobre el registro.** Desde la semana 3 la bitácora no tiene llenas la comprobación diaria ni el semáforo semanal. Los niveles posteriores al 27-ago salen de los productos y de las revisiones de cada track, no de una comprobación a libro cerrado. Antes de la puerta del 29-oct toca volver a medir con una prueba a libro cerrado.
+> **Aviso sobre el registro.** Desde la semana 3 la bitácora no tiene llenas la comprobación diaria ni el semáforo semanal. Los niveles posteriores al 27-ago salen de los productos y de las revisiones de cada track, no de una comprobación a libro cerrado. Antes de la puerta del 29-oct toca volver a medir con una prueba a libro cerrado. La comprobación diaria se retomó el 21-oct.
 
 ## Lo que hace bien
 
@@ -47,7 +50,7 @@ Nivel según la última evidencia registrada.
 
 ## Lo que le falta
 
-- **Cerrar.** Corrige, pero no comprueba que la corrección llegue al producto final.
+- **Cerrar.** Corrige, pero no comprueba que la corrección llegue al producto final. Al 23-oct la tabla de roles de su análisis sigue cortada y escribió el campo dentro del archivo del encargo.
 - **Encargos abstractos.** No los entiende. Con un caso concreto y pasos numerados, sí produce.
 - **Uso de la IA.** A veces entrega lo que produjo la IA sin haberlo entendido: marcas de cita sin limpiar (18 y 23-sep) y una lista de cuellos de botella sacada del diagrama y no de casos (5-oct). La regla es que no entrega nada que no pueda explicar línea por línea sin notas.
 - **Conclusiones** más grandes que su evidencia.
@@ -56,9 +59,12 @@ Nivel según la última evidencia registrada.
 
 | Fecha | Qué |
 | :-- | :-- |
-| Semana 10 | Trabajo de campo con las ejecutivas (punto 3.2 del Track B) |
-| Semana 10 | Revisar con ellas el flujo en canvas |
-| Semana 10 | Convertir sus notas de casos en contraejemplos que rompan el flujo |
-| 2026-10-29 | **Puerta de la Fase 1:** manual operativo del flujo + propuesta de base de datos, con defensa oral |
+| Semana 10–11 | Trabajo de campo con las ejecutivas (punto 3.2 del Track B), desde el 21-oct. Meta al 26-oct: 2 incidentes vivos o más por familia, o la familia descartada con evidencia |
+| Pendiente | Revisar con ellas el flujo en canvas |
+| Pendiente | Convertir sus notas de casos en contraejemplos que rompan el flujo |
+| Pendiente | Reparar la tabla de roles de su análisis y revisar cómo quedó |
+| 2026-10-26 | Corregir los números de su análisis y rehacer las familias con los casos vivos |
+| 2026-10-28 | Requisitos con un número que baje |
+| 2026-10-29 | Defensa del Step 0 sin notas. Se decide la fecha de la **puerta de la Fase 1** (manual operativo del flujo + propuesta de base de datos) |
 | Después de la puerta | Definir su entregable de Fase 2 (ver [Pendientes](../06_Pendientes-y-por-decidir.md)) |
 | 14–17 dic | Presentación al equipo y evaluación final |

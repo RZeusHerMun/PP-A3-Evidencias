@@ -4,8 +4,10 @@ herramienta: FianzasAI v2
 version_publicada: 2.0.0-alpha.8.1
 version_en_curso: 2.0.0-alpha.9
 repositorio: RZeusHerMun/PDF_AI-v2 (privado)
-corte: 2026-10-20
+corte: 2026-10-23
 fuente: README, docs/CAMBIOS.md, docs/DECISIONES.md, docs/BUGS.md y docs/SESIONES.md del repositorio, y bitácora privada
+revision: ok
+actualizado: 2026-10-23
 ---
 
 # FianzasAI · estado y versiones
@@ -47,9 +49,9 @@ Lo que la herramienta **no** hace:
 | alpha.7           | 2026-10-13 | Monto afianzado editable, carpeta de archivos de la app en cada contrato y ajustes de la primera prueba con Drive           |
 | alpha.8           | 2026-10-13 | **Módulo Altas:** alta rápida con la CSF                                                                                    |
 | alpha.8.1         | 2026-10-15 | Actualizador nuevo para instalaciones y copias de desarrollo                                                                |
-| alpha.9           | en curso   | Explorador del expediente del fiado (ver [S10](../02_Bitacora/S10.md))                                                      |
+| alpha.9           | en curso   | Explorador del expediente del fiado, copiar faltantes para el chat, cotización rápida, acta como poderes y tarifas que edita la oficina (ver [S10](../02_Bitacora/S10.md))                                                      |
 
-Registro técnico: 26 errores corregidos y documentados (B-001 a B-026) y 35 decisiones de diseño (D-01 a D-35). Al 15-oct, la alpha.9 tenía 197 pruebas automáticas en verde.
+Registro técnico: 30 errores corregidos y documentados (B-001 a B-030) y 46 decisiones de diseño (D-01 a D-46). Al 23-oct, la alpha.9 tenía 294 pruebas automáticas en verde. Lo del 23-oct está en una rama aparte y falta probarlo en Windows.
 
 ## Dónde está instalada
 
@@ -57,7 +59,7 @@ Registro técnico: 26 errores corregidos y documentados (B-001 a B-026) y 35 dec
 | :-------------------------- | :-------------------- | :--------------------------------------------------------------- |
 | HP de la oficina            | alpha.8.1             | Actualizada el 2026-10-15                                        |
 | Laptops de las ejecutivas   | anterior a la 8.1     | Instaladas el 2026-10-02 con la alpha.4. Falta pasarlas a la 8.1 |
-| Computadora del practicante | alpha.8.1             | Copia de desarrollo. Falla la ruta del Drive de prueba           |
+| Computadora del practicante | alpha.8.1             | Copia de desarrollo. El `.env` ya lee (2026-10-21)           |
 | Mi laptop                   | alpha.9 en desarrollo | —                                                                |
 
 ## Medición
@@ -68,10 +70,10 @@ Registro técnico: 26 errores corregidos y documentados (B-001 a B-026) y 35 dec
 
 ## Lo que sigue
 
-1. Cerrar la alpha.9: ficha del fiado editable, alta guardando en `EXPEDIENTE/` y Registro.
-2. Extracción por tipo de documento y **OCR para escaneados**. En una muestra real, 8 de 23 PDF son escaneados.
+1. Probar en Windows lo del 23-oct e integrarlo. Cerrar la alpha.9: ficha del fiado editable, que no se pierda lo capturado al cambiar de documento, alta guardando en `EXPEDIENTE/` y Registro.
+2. Extracción por tipo de documento y **OCR para escaneados**. En una muestra real, 8 de 23 PDF son escaneados. La prueba de OCR sube de puesto (D-37): Tesseract y, si no alcanza, PaddleOCR. Falta decidir qué se recorre. En el trabajo de campo, los 4 contratos que vio el practicante llegaron escaneados.
 3. Cotejo de documentos, y unir y dividir PDF.
-4. Biblioteca de modelos de texto por subramo y beneficiario para generar previos.
+4. Biblioteca de modelos de texto por subramo y beneficiario para generar previos. Desde el 22-oct hay un machote de campos para el oficio de retroactividad.
 5. Conexión con ClickUp o con el CRM que se elija.
 6. Pasar las instalaciones a una rama "estable" con acceso de solo lectura.
 
@@ -79,4 +81,4 @@ Registro técnico: 26 errores corregidos y documentados (B-001 a B-026) y 35 dec
 
 - **Acceso al repositorio:** mientras duran las pruebas, las computadoras de la oficina usan mi sesión de GitHub. Antes de la versión estable se cambia por un token de solo lectura en cada laptop.
 - **Uso de IA con contratos:** falta que la Dirección decida si se pueden mandar contratos a una API de IA empresarial (ver [Pendientes](../06_Pendientes-y-por-decidir.md)).
-- **Datos de prueba:** hay un nombre que parece de un fiado real en un archivo de pruebas y en la bitácora de errores. Se va a cambiar por uno ficticio.
+- **Datos de prueba:** el nombre que parecía de un fiado real se cambió por uno ficticio el 2026-10-22. Sigue en la historia de git del repositorio.

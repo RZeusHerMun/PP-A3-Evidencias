@@ -1,7 +1,9 @@
 ---
 tipo: cronograma
-corte: 2026-10-20
-fuente: cronograma del programa (§1, §4, §6), bitácora privada D1–D28 y nota de contexto del 2026-10-14
+corte: 2026-10-23
+fuente: cronograma del programa (§1, §4, §6), bitácora privada D1–D30 y nota de contexto del 2026-10-14
+revision: ok
+actualizado: 2026-10-23
 ---
 
 # Cronograma: plan contra real
@@ -37,9 +39,9 @@ Cuenta de sesiones registradas en la bitácora × 4.5 h.
 | 7 | 28 sep–1 oct | 3 | 90.0 | 94.5 |
 | 8 | 5–8 oct | 3 | 108.0 (con 1 reposición) | 108.0 |
 | 9 | 12–15 oct | 3 | 121.5 | 121.5 |
-| 10 | 19 oct (al corte) | 1 | — | **126.0** |
+| 10 | 19–22 oct | 3 | 135.0 | **135.0** |
 
-**Al 2026-10-20 van 28 sesiones y 126 h, en línea con el plan.**
+**Al 2026-10-22 van 30 sesiones y 135 h, en línea con el plan.**
 
 ### Proyección al cierre
 
@@ -57,7 +59,7 @@ Faltan **3 o 4 sesiones de reposición** para llegar a 250 h. El cronograma prop
 | Fase | Plan | Real |
 | :-- | :-- | :-- |
 | 0 · Inducción | Semanas 1–2, puerta el 28-ago | Cerrada el **2026-08-27** con examen escrito a libro cerrado |
-| 1 · Operación | Semanas 3–8, puerta el 9-oct | **Sigue abierta.** La puerta se movió al **jue 2026-10-29** (decisión del 6-oct) |
+| 1 · Operación | Semanas 3–8, puerta el 9-oct | **Sigue abierta.** La puerta se movió al **jue 2026-10-29** (decisión del 6-oct). Ese día defiende el Step 0 y se decide con Dirección la fecha de la puerta |
 | 2 · Proyectos | Semanas 9–17 | Empieza después de la puerta. Quedan unas 7 semanas, que alcanzan para un entregable con ciclo completo |
 | Cierre | Semana 18: 14, 16 y 17 de diciembre | Sin cambio (el 18 cae en viernes) |
 
