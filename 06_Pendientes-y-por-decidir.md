@@ -31,16 +31,16 @@ Hoy FianzasAI funciona en modo manual. La IA solo sugeriría y la ejecutiva vali
 | Seguir en modo manual                              | Sin riesgo de datos                       | Se pierde el ahorro de tiempo de la extracción (Falta medir cuanto se pierde).  |
 
 **Recomendación:** primero medir en modo manual, con tiempo y errores por contrato, y después probar la API con contratos de muestra para comparar.
-
+	Dirección está de acuerdo para aplicar API como pruebas para cotizar consumos y sobre todo tener listas las métricas para poder notificar avances o mejoras (primero con la herramienta y después con las aplicaciones de la IA).
 ### 3. Entregable de Fase 2 del practicante
 
 Con unas 7 semanas de Fase 2 alcanza para **un** entregable que llegue a uso real.
 
-| Opción | A favor | En contra |
-| :-- | :-- | :-- |
-| (a) Una pieza de FianzasAI con su manual: biblioteca de modelos de texto o medición de errores de captura | Se usa en la oficina y aprovecha su perfil técnico | Depende del ritmo de la herramienta |
-| (b) Una automatización chica propia, como el bloc de copy&paste que usa una ejecutiva | Tiene principio y fin claros, y es suya | Impacto menor |
-| (c) Cerrar el Track B como entregable principal: manual del flujo y base de datos | Es la continuidad de lo que ya trae | No toca automatización, que era la línea principal del programa |
+| Opción                                                                                                    | A favor                                            | En contra                                                       |
+| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | :-------------------------------------------------------------- |
+| (a) Una pieza de FianzasAI con su manual: biblioteca de modelos de texto o medición de errores de captura | Se usa en la oficina y aprovecha su perfil técnico | Depende del ritmo de la herramienta                             |
+| (b) Una automatización chica propia, como el bloc de copy&paste que usa una ejecutiva                     | Tiene principio y fin claros, y es suya            | Impacto menor                                                   |
+| (c) Cerrar el Track B como entregable principal: manual del flujo y base de datos                         | Es la continuidad de lo que ya trae                | No toca automatización, que era la línea principal del programa |
 
 **Recomendación:** (c) como cierre de la Fase 1 y (a) para la Fase 2, con un entregable medible.
 
@@ -54,12 +54,12 @@ La puerta pide el manual operativo del flujo y la propuesta de base de datos. El
 | (b) Jue 5-nov, con el modelo de datos reducido | Solo una semana más | El modelo de datos queda incompleto |
 | (c) Jue 12-nov, con el análisis y el modelo de datos completos | Cumple lo que pide la puerta. El atraso se descuenta de la Fase 2 | La Fase 2 queda en 4 semanas, en plena temporada |
 
-Se decide en la reunión del 2026-10-29.
+Se decide en la reunión del 2026-10-29. **Decision b)**
 
 ## Pendientes del programa
 
 - [x] Trabajo de campo del practicante con las ejecutivas (Track B, 3.2). Arrancó el 2026-10-21.
-- [ ] Puerta de la Fase 1 el **2026-10-29**.
+- [x] Puerta de la Fase 1 el **2026-10-29**.
 - [ ] Agendar las reposiciones.
 - [x] Plática sobre la posición de A3 en la cadena del negocio (oficina, matriz, agentes).
 - [x] Plática sobre cómo se postula el negocio a los agentes.

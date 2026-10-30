@@ -1,11 +1,11 @@
 ---
 tipo: indice
 repo: PP-A3-Evidencias
-corte: 2026-10-23
+corte: 2026-10-30
 autor: Rafael Hernández Muñoz
 lector: Dirección General A3
 revision: ok
-actualizado: 2026-10-23
+actualizado: 2026-10-30
 ---
 
 # Evidencias del programa de Prácticas Profesionales y de FianzasAI · A3 Fianzas
@@ -19,7 +19,7 @@ Este repositorio junta en un solo lugar lo que se ha hecho desde el 17 de agosto
 
 Es de consulta. Cada nota resume lo que dice la bitácora y anota de qué registro sale. Las bitácoras originales y las revisiones de trabajo se quedan en mi vault privado con las notas de trabajo diario. Si alguna evidencia hace falta completa, se comparte aparte.
 
-**Corte de esta versión:** viernes 2026-10-23 (semana 10 de 18).
+**Corte de esta versión:** viernes 2026-10-30 (semana 11 de 18).
 
 ---
 
@@ -33,7 +33,7 @@ Es de consulta. Cada nota resume lo que dice la bitácora y anota de qué regist
 | Carpeta                                       | Qué hay                                                                                                                                                                                                                                                                                                    |
 | :-------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [01_Programa](01_Programa/)                   | [Programa y organización](01_Programa/Programa-y-organizacion.md) · [Cronograma: plan contra real](01_Programa/Cronograma-plan-vs-real.md) · [Ajustes y decisiones](01_Programa/Ajustes-y-decisiones.md)                                                                                                   |
-| [02_Bitacora](02_Bitacora/)                   | Una nota por semana: [S01](02_Bitacora/S01.md) · [S02](02_Bitacora/S02.md) · [S03](02_Bitacora/S03.md) · [S04](02_Bitacora/S04.md) · [S05](02_Bitacora/S05.md) · [S06](02_Bitacora/S06.md) · [S07](02_Bitacora/S07.md) · [S08](02_Bitacora/S08.md) · [S09](02_Bitacora/S09.md) · [S10](02_Bitacora/S10.md) |
+| [02_Bitacora](02_Bitacora/)                   | Una nota por semana: [S01](02_Bitacora/S01.md) · [S02](02_Bitacora/S02.md) · [S03](02_Bitacora/S03.md) · [S04](02_Bitacora/S04.md) · [S05](02_Bitacora/S05.md) · [S06](02_Bitacora/S06.md) · [S07](02_Bitacora/S07.md) · [S08](02_Bitacora/S08.md) · [S09](02_Bitacora/S09.md) · [S10](02_Bitacora/S10.md) · [S11](02_Bitacora/S11.md) |
 | [03_Supervision-Edgar](03_Supervision-Edgar/) | [Avance y desempeño](03_Supervision-Edgar/Avance-y-desempeño.md) · [Track A: análisis de mercado](03_Supervision-Edgar/Track-A-Analisis-de-mercado.md) · [Track B: flujo operativo](03_Supervision-Edgar/Track-B-Flujo-operativo.md)                                                                       |
 | [04_FianzasAI](04_FianzasAI/)                 | [Estado y versiones](04_FianzasAI/Estado-y-versiones.md) · [Uso en la computadora de Dirección](04_FianzasAI/Uso-en-la-computadora-de-Direccion.md)                                                                                                                                                        |
 | [05_Practicas-Rafa](05_Practicas-Rafa/)       | [Reportes a la BUAP](05_Practicas-Rafa/Reportes-BUAP.md)                                                                                                                                                                                                                                                   |
@@ -43,7 +43,7 @@ Es de consulta. Cada nota resume lo que dice la bitácora y anota de qué regist
 
 - **D7, D23…** = sesión número 7, 23… con el practicante (lunes, miércoles y jueves, 9:30–14:00).
 - **R** = día solo de Rafa en la oficina, sin el practicante.
-- **S1…S10** = semanas del programa.
+- **S1…S11** = semanas del programa.
 - **RS01, RS02…** = reunión de seguimiento número 1, 2… (jueves 11:00–12:00, con Dirección, ejecutivas y practicante).
 - **Track** = proyecto de prácticas profesionales. 
 	- A: análisis de mercado. 
