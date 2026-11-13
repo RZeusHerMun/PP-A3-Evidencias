@@ -1,14 +1,14 @@
 ---
 tipo: registro-decisiones
-corte: 2026-10-23
-fuente: bitácora privada (D, R y S), cronograma, revisiones del Track A y del Track B, docs/DECISIONES.md de FianzasAI
+corte: 2026-11-12
+fuente: bitácora privada (D, R y S), cronograma, revisiones del Track A y del Track B, notas de las reuniones de seguimiento, docs/DECISIONES.md de FianzasAI
 revision: ok
-actualizado: 2026-10-23
+actualizado: 2026-11-12
 ---
 
 # Ajustes y decisiones del programa
 
-Lista en orden de fecha. Las decisiones técnicas de FianzasAI (D-01 a D-42) están en su repositorio, en `docs/DECISIONES.md`. Aquí solo van las que tocan al programa o a la oficina.
+Lista en orden de fecha. Las decisiones técnicas de FianzasAI (D-01 a D-69) están en su repositorio, en `docs/DECISIONES.md`. Aquí solo van las que tocan al programa o a la oficina.
 
 | Fecha | Decisión o ajuste | Por qué | Fuente |
 | :-- | :-- | :-- | :-- |
@@ -36,3 +36,21 @@ Lista en orden de fecha. Las decisiones técnicas de FianzasAI (D-01 a D-42) est
 | 2026-10-20 | Alcance de la v1 de FianzasAI y frontera con el CRM (borrador) | Fijar qué entra en la v1 y cuándo termina | DECISIONES D-36 |
 | 2026-10-22 | Se cancela la primera reunión de seguimiento. Queda el 2026-10-29 | La Dirección no pudo asistir | S10 |
 | 2026-10-23 | La puerta de la Fase 1 no se abre esta semana. El 29-oct el practicante defiende el Step 0 y se decide con Dirección la fecha de la puerta | La puerta pide también la propuesta de base de datos (Step 1), que no cabe antes del 29 | S10, R 20-oct |
+| 2026-10-28 | Las laptops de las ejecutivas se actualizan cuando haya una versión estable | Evitar que prueben con una versión que sigue cambiando | RS01 |
+| 2026-10-28 | Dirección acepta pruebas de IA por API para cotizar el consumo y tener lista la medición | Decidir con números si conviene la IA | RS01 |
+| 2026-10-29 | Entregable de Fase 2 del practicante: cerrar el Track B con el manual del flujo y el modelo de datos | Es la continuidad de lo que ya trae y lo necesita el CRM | D33, S11 |
+| 2026-10-29 | Puerta de la Fase 1 el jue 5-nov (opción b) | Dar una semana más al cierre del Step 0 | D33, S11 |
+| 2026-10-29 | Propuesta: la línea base para medir FianzasAI sale del análisis final del practicante | Aprovechar lo que ya midió en campo | S11 |
+| 2026-11-04 | El practicante defiende el Step 0. Para el manual falta la parte de después de emitir; con eso, yo le pido el manual a la IA y él lo audita | Resultado de la defensa | D34 |
+| 2026-11-05 | La reunión de seguimiento del 5-nov se pospone al 12-nov | Sin registro del motivo | D35 |
+| 2026-11-05 | Elegir el CRM con el modelo de datos: comparar ClickUp contra Odoo, HubSpot u otro | No se va a usar todo lo de ClickUp Pro | D35 |
+| 2026-11-06 | El viernes 6 repone el lunes 2, que no tuvo sesión | Mantener las horas | S12 |
+| Sin fecha registrada | La defensa del Step 1 y la puerta pasan al jue 12-nov | Calendario del Step 1 | S12 |
+| 2026-11-09 | La defensa del Step 1 y la puerta pasan al **jue 19-nov**. El lun 16 es inhábil y esa sesión pasa al mar 17 | Los bloques 1 a 3 no cumplen su criterio de terminado | D37 |
+| 2026-11-09 | Reglas de agentes, confirmadas con Eri: agentes distintos en afianzadoras distintas; con la misma afianzadora, carta de cambio de conducto; asignación entre dos agentes del despacho sin carta. La herramienta tiene que contemplarlas | Lo pide el modelo de datos y la ficha del previo | D37 |
+| 2026-11-11 | OCR con el motor Tesseract; la INE y la cédula se capturan a mano; el OCR se adelanta | Corre en la computadora más justa (6 s por página) y lee 65 de 76 datos fuera de INE y cédula | DECISIONES D-67 |
+| 2026-11-12 | El OCR entra a la primera versión de FianzasAI | Casi 4 de cada 5 contratos llegan escaneados | DECISIONES D-69 |
+| 2026-11-12 | Dirección pide poder borrar documentos desde el explorador del expediente, con confirmación. Cambia la regla de que la herramienta nunca borra | Quitar archivos pesados o de más sin salir de la herramienta | RS02 |
+| 2026-11-12 | Domicilio fiscal: el de la CSF es el predefinido y se comprueba solo con el comprobante de domicilio. El cotejo cruzado de domicilios baja de prioridad | Las direcciones no tienen que coincidir | RS02 |
+| 2026-11-12 | Carpetas: las fichas de la herramienta y las versiones viejas salen a subcarpetas; en FIANZAS queda solo lo vigente | Que la vista principal no estorbe | RS02 |
+| 2026-11-12 | Los gastos de la cotización se editan por movimiento y se guardan con la tarifa preferencial | Los gastos no siempre se modifican | RS02 |

@@ -2,11 +2,11 @@
 tipo: track
 track: B
 estado: en curso
-fechas: 2026-09-17 → (defensa del Step 0 2026-10-29; puerta por decidir)
-corte: 2026-10-23
-fuente: bitácora privada D14–D30, nota Track B, encargo del flujo operativo v1, revisión del 2026-10-06, Step 0 explicado
+fechas: 2026-09-17 → (Step 0 defendido el 2026-11-04; defensa del Step 1 y puerta el 2026-11-19)
+corte: 2026-11-12
+fuente: bitácora privada D14–D39 y semanales S11–S13, nota Track B, encargo del flujo operativo v1, revisión del 2026-10-06, Step 0 explicado, encargo y revisión del Step 1 (2026-11-09)
 revision: ok
-actualizado: 2026-10-23
+actualizado: 2026-11-12
 ---
 
 # Track B · Flujo operativo de la oficina (en curso)
@@ -30,7 +30,9 @@ También sirve de base para elegir un CRM y para diseñar FianzasAI.
 | Encargo del flujo operativo v1 | 24-sep → 1-oct | Se congela ClickUp. El practicante escribe el manual 05 y dibuja el flujo de decisiones de la oficina en canvas. |
 | Primera lista de cuellos de botella | 5-oct | 15 "cuellos de botella" sacados del diagrama: hipótesis sin caso, fecha ni costo. |
 | Regreso a casos reales (Step 0) | 6-oct → 19-oct | Se replantea con casos reales y tres preguntas (ver abajo). |
-| Revisión del Step 0 y trabajo de campo | 20-oct → hoy | El 20-oct se decidió que corrija sus números y rehaga las familias con casos vivos. El 21-oct lo revisamos en un 1-1 y empezó el trabajo de campo con las ejecutivas. El 22-oct anotó en campo 14 trámites abiertos y 4 incidentes vivos. |
+| Revisión del Step 0 y trabajo de campo | 20-oct → 29-oct | El 20-oct se decidió que corrija sus números y rehaga las familias con casos vivos. El 21-oct lo revisamos en un 1-1 y empezó el trabajo de campo con las ejecutivas. El 22-oct anotó en campo 14 trámites abiertos y 4 incidentes vivos. El 28-oct terminó el campo, ya con las dos ejecutivas. |
+| Cierre del Step 0 | 28-oct → 4-nov | Borrador de su análisis final: 28 incidentes, 6 familias de causas y un punto de quiebre con número (12 vueltas en 7 incidentes). Auditoría contra las familias de referencia (7 de 7) y defensa el 4-nov. Falta la parte de después de emitir. |
+| Step 1 · modelo de datos | 5-nov → hoy | Primera versión de los bloques 1 a 3 (5 entidades, 6 relaciones, 7 estados) el 5 y 6-nov. Revisión del 9-nov: buen núcleo, pero ninguno de los 3 bloques cumple su criterio de terminado. Segunda versión en curso. Defensa el 19-nov. |
 
 ### Las tres preguntas del Step 0
 
@@ -47,23 +49,28 @@ También sirve de base para elegir un CRM y para diseñar FianzasAI.
 - **Ajustes del 21-oct:** cada familia dice si cuesta en espera o en retrabajo, los requisitos quedan como "versión 1, antes de campo" y hay un conteo de incidentes por categoría para el caso 1 y el caso 2. La tabla de roles quedó cortada y hay que repararla.
 - **Primer día de campo (22-oct):** tablero con 14 trámites abiertos y 4 incidentes vivos (SC-01 a SC-04), cada uno con su paso del flujo y su tipo de costo. Los 4 contratos que vio llegaron escaneados.
 - **Plática con las ejecutivas (20-oct):** le van platicando al practicante los casos que tienen activos.
+- **Análisis final del Step 0 (defendido el 4-nov):** 28 incidentes (18 con prueba y 10 por confirmar), 6 familias de causas escritas como frases y el punto de quiebre con número.
+- **Tarjeta nueva en el flujo (6-nov):** dónde se rompe cuando cambia la afianzadora o el agente.
+- **Reglas de agentes (9-nov), confirmadas con Eri:** agentes distintos en afianzadoras distintas; con la misma afianzadora, carta de cambio de conducto; asignación entre dos agentes del despacho sin carta.
+- **Cierre de documentación del fiado (11-nov):** papelería firmada por escaneo, emisión, llegada de los originales y acuse de originales que firma la afianzadora; el acuse va al expediente, en papelería firmada.
+- **Modelo de datos, primera versión (5 y 6-nov):** entidades, relaciones, estados y diagrama.
 
 ## Lo que falta para la puerta
 
-| Pendiente | Responsable |
-| :-- | :-- |
-| Trabajo de campo con las ejecutivas (3.2): cómo registran y ordenan sus pendientes, y cuántos documentos llegan escaneados. Arrancó el 21-oct | Practicante, con mi apoyo |
-| Corregir los números del costo: cada total rastreable a sus incidentes, en días y vueltas (26-oct) | Practicante |
-| Reparar la tabla de roles y revisar cómo quedó | Practicante |
-| Tablero del 26 y 28-oct con las dos ejecutivas, en su bitácora de campo y no en el archivo del encargo | Practicante |
-| En "¿por qué?", anotar la causa y no lo que se hizo | Practicante |
-| Revisar con ellas el flujo en canvas: etapas que falten o que sobren | Practicante y yo |
-| Pasar de familias de incidentes a causas con requisito medible | Practicante |
-| Contraejemplos que rompan el flujo, a partir de sus notas de casos | Practicante |
-| Manual operativo del flujo y propuesta de base de datos | Practicante, con mi revisión |
+| Pendiente                                                                                                                                                         | Responsable                |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- |
+| Bloques 1 a 3 del modelo de datos en segunda versión, que aguanten el caso 1 y el caso 2                                                                          | Practicante                |
+| Bloques 4 a 6: candados y avisos, métricas (17-nov) y base en papel con casos reales (18-nov)                                                                     | Practicante                |
+| Auditoría del modelo y defensa sin notas (19-nov)                                                                                                                 | Practicante                |
+| Completar el flujo con la parte de después de emitir y sus incidentes                                                                                             | Practicante y yo y oficina |
+| Revisar con las ejecutivas la versión revisada del flujo, con la etapa de la fianza vigente. Estaba para la reunión del 12-nov; sin registro de que se haya hecho | Practicante y yo y oficina |
+| Requisitos medibles y línea base con universo, resultado y tasa                                                                                                   | Practicante                |
+| Manual operativo del flujo: yo se lo pido a la IA y el practicante lo audita                                                                                      | Yo y el practicante        |
 
 ## Lectura
 
 El practicante entiende bien **dónde** pasa un incidente dentro del flujo. Le cuesta pasar a **por qué** pasa y a qué requisito medible lo evitaría: lo ve como "proponer suposiciones". También tiene razón en algo: los casos antiguos dejaron poca evidencia. Por eso el trabajo de campo con las ejecutivas es lo que falta para cerrar.
 
 Al 21-oct lo central no se movió: las familias siguen por etapa y la causa describe el efecto, no el porqué. En la comprobación de ese día mostró los incidentes por categoría, sin causas, y no pudo decir sus cuellos de botella sin la nota. En campo (22-oct) se repite: en "¿por qué?" anota lo que se hizo, no la causa.
+
+En noviembre el patrón se repite en el modelo de datos: escoge bien las piezas, pero no las prueba con sus propios casos (revisión del 9-nov).
